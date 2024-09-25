@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|e:\\3 ano etec\\curso\\pam\\pamii_study\\pamii_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|e:\\3 ano etec\\curso\\pam\\pamii_study\\pamii_study\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|e:\\3 ano etec\\curso\\pam\\pamii_study\\pamii_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|e:\\3 ano etec\\curso\\pam\\pamii_study\\pamii_study\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|e:\\3 ano etec\\curso\\pam\\pamii_study\\pamii_study\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorService.cs",
+              "DocumentMoniker": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Services\\MonitorService.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Services\\MonitorService.cs",
+              "ToolTip": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Services\\MonitorService.cs",
+              "RelativeToolTip": "PAMII_Study\\Services\\MonitorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:08:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Conexao.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Conexao.cs",
+              "ToolTip": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Conexao.cs",
+              "RelativeToolTip": "PAMII_Study\\Models\\Conexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:56:32.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Disponibilidade.cs",
+              "DocumentMoniker": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Disponibilidade.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Disponibilidade.cs",
+              "ToolTip": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Disponibilidade.cs",
+              "RelativeToolTip": "PAMII_Study\\Models\\Disponibilidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:51:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Monitor.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Monitor.cs",
+              "ToolTip": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Monitor.cs",
+              "RelativeToolTip": "PAMII_Study\\Models\\Monitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:47:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Disciplina.cs",
+              "ToolTip": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\Models\\Disciplina.cs",
+              "RelativeToolTip": "PAMII_Study\\Models\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:42:36.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
