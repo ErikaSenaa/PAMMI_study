@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\PAMII_Study.csproj": {}
+    "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\PAMII_Study.csproj": {}
   },
   "projects": {
-    "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\PAMII_Study.csproj": {
+    "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\PAMII_Study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\PAMII_Study.csproj",
+        "projectUniqueName": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\PAMII_Study.csproj",
         "projectName": "PAMII_Study",
-        "projectPath": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\PAMII_Study.csproj",
+        "projectPath": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\PAMII_Study.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "E:\\3 ANO ETEC\\CURSO\\PAM\\PAMII_Study\\PAMII_Study\\obj\\",
+        "outputPath": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

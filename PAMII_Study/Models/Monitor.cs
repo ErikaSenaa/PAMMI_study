@@ -16,6 +16,5 @@ namespace PAMII_Study.Models
         public string Conteudo { get; set; }
         public Disciplina id { get; set; }
         public List<Disponibilidade> Disponibilidades { get; set; } 
-        public string Idade { get => idade ; set => idade; }
     }
 }
