@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Net;
@@ -16,9 +17,9 @@ namespace PAMII_Study.Service
          private HttpClient client;
         private PAMII_Study.Models.Monitor monitor;
 
-        private List<Models.Monitor> monitores;
+        private ObservableCollection<Models.Monitor> monitores;
 
-        private JsonSerializerOptions _serializerOptions;
+        public JsonSerializerOptions _serializerOptions;
 
         public MonitorService() { 
 
@@ -31,7 +32,7 @@ namespace PAMII_Study.Service
                
         }
 
-        public async Task<List<Models.Monitor>> GetAllMonitorAsync()
+        public async Task<ObservableCollection<Models.Monitor>> GetAllMonitorAsync() 
         {
             Uri uri = new Uri("https://localhost:8080/monitores");
             try
@@ -40,7 +41,7 @@ namespace PAMII_Study.Service
                 if (response.IsSuccessStatusCode)
                 {
                     string content = await response.Content.ReadAsStringAsync();
-                    monitores = JsonSerializer.Deserialize<List<Models.Monitor>>(content, _serializerOptions);
+                    monitores = JsonSerializer.Deserialize<ObservableCollection<Models.Monitor>>(content, _serializerOptions);
                 }
             }
             catch (Exception ex)

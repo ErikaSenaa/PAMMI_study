@@ -15,6 +15,7 @@ namespace PAMII_Study.Models
         public string Email { get; set; }
         public string Conteudo { get; set; }
         public Disciplina id { get; set; }
-        public List<Disponibilidade> Disponibilidades { get; set; } 
+        public List<Disponibilidade> Disponibilidades { get; set; }
+        private String idade;
     }
 }

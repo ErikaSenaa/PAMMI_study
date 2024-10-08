@@ -1,13 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
+using CommunityToolkit.Mvvm.ComponentModel;
+using PAMII_Study.Service;
 
 namespace PAMII_Study.ViewModels
 {
-    public class MonitorViewModels
+    public partial class MonitorViewModels : ObservableObject
     {
+        [ObservableProperty]
+        private ObservableCollection<Models.Monitor> monitores;
+
+        public   MonitorViewModels() 
+        {
+            getMonitoresCommand = new Command(getMonitores);
+            getMonitoresCommand.Execute(this);
+        }
+
+        private ICommand getMonitoresCommand {  get;}
+
+        public async void getMonitores() {
+            monitores =  await new MonitorService().GetAllMonitorAsync();
+        }
+
+
 
     }
 }
