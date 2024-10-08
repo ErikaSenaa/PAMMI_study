@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3DS\\PAM2\\PAMMI_study\\",
+  "WorkspaceRootPath": "D:\\pam\\PAMMI_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\view\\monitorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\pam\\pammi_study\\pamii_study\\view\\monitorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\view\\monitorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\viewmodels\\monitorviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\viewmodels\\monitorviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\pam\\pammi_study\\pamii_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\pam\\pammi_study\\pamii_study\\view\\monitorview.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\view\\monitorview.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\pam\\pammi_study\\pamii_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\disponibilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\3ds\\pam2\\pammi_study\\pamii_study\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|d:\\pam\\pammi_study\\pamii_study\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E946E1B-50AB-4D29-A326-2E934FDBDF5F}|PAMII_Study\\PAMII_Study.csproj|solutionrelative:pamii_study\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MonitorViewModels.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\ViewModels\\MonitorViewModels.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\ViewModels\\MonitorViewModels.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\ViewModels\\MonitorViewModels.cs",
-              "RelativeToolTip": "PAMII_Study\\ViewModels\\MonitorViewModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:21:37.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MonitorView.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\View\\MonitorView.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\View\\MonitorView.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\View\\MonitorView.cs",
-              "RelativeToolTip": "PAMII_Study\\View\\MonitorView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Title": "MonitorService.cs",
+              "DocumentMoniker": "D:\\pam\\PAMMI_study\\PAMII_Study\\Services\\MonitorService.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Services\\MonitorService.cs",
+              "ToolTip": "D:\\pam\\PAMMI_study\\PAMII_Study\\Services\\MonitorService.cs",
+              "RelativeToolTip": "PAMII_Study\\Services\\MonitorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:20:54.3Z",
+              "WhenOpened": "2024-10-08T02:23:24.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MonitorService.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Services\\MonitorService.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\Services\\MonitorService.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Services\\MonitorService.cs",
-              "RelativeToolTip": "PAMII_Study\\Services\\MonitorService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAACUAAAANAAAA",
+              "Title": "MonitorView.cs",
+              "DocumentMoniker": "D:\\pam\\PAMMI_study\\PAMII_Study\\View\\MonitorView.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\View\\MonitorView.cs",
+              "ToolTip": "D:\\pam\\PAMMI_study\\PAMII_Study\\View\\MonitorView.cs",
+              "RelativeToolTip": "PAMII_Study\\View\\MonitorView.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:08:29.707Z",
+              "WhenOpened": "2024-10-08T02:01:02.124Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Conexao.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Conexao.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Conexao.cs",
-              "RelativeToolTip": "PAMII_Study\\Models\\Conexao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:56:32.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Disponibilidade.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Disponibilidade.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Disponibilidade.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Disponibilidade.cs",
-              "RelativeToolTip": "PAMII_Study\\Models\\Disponibilidade.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:51:32.334Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Monitor.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Monitor.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Monitor.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Monitor.cs",
-              "RelativeToolTip": "PAMII_Study\\Models\\Monitor.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "D:\\pam\\PAMMI_study\\PAMII_Study\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Disciplina.cs",
+              "ToolTip": "D:\\pam\\PAMMI_study\\PAMII_Study\\Models\\Disciplina.cs",
+              "RelativeToolTip": "PAMII_Study\\Models\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:47:23.499Z",
+              "WhenOpened": "2024-10-08T02:11:04.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitorView.xml",
+              "DocumentMoniker": "D:\\pam\\PAMMI_study\\PAMII_Study\\View\\MonitorView.xml",
+              "RelativeDocumentMoniker": "PAMII_Study\\View\\MonitorView.xml",
+              "ToolTip": "D:\\pam\\PAMMI_study\\PAMII_Study\\View\\MonitorView.xml",
+              "RelativeToolTip": "PAMII_Study\\View\\MonitorView.xml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-08T02:01:56.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Disciplina.cs",
-              "DocumentMoniker": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Disciplina.cs",
-              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Disciplina.cs",
-              "ToolTip": "D:\\3DS\\PAM2\\PAMMI_study\\PAMII_Study\\Models\\Disciplina.cs",
-              "RelativeToolTip": "PAMII_Study\\Models\\Disciplina.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "D:\\pam\\PAMMI_study\\PAMII_Study\\Models\\Monitor.cs",
+              "RelativeDocumentMoniker": "PAMII_Study\\Models\\Monitor.cs",
+              "ToolTip": "D:\\pam\\PAMMI_study\\PAMII_Study\\Models\\Monitor.cs",
+              "RelativeToolTip": "PAMII_Study\\Models\\Monitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:42:36.882Z",
+              "WhenOpened": "2024-09-24T14:47:23.499Z",
               "EditorCaption": ""
             }
           ]
