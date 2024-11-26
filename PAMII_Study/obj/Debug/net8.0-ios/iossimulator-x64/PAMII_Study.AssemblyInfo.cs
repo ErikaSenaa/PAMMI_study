@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAMII_Study")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ac7e33c04c66cf6cdb8ec54d04354f396f76e132")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+11eb00a2ba5549886cb341f0f00329654e6e506e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAMII_Study")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAMII_Study")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
